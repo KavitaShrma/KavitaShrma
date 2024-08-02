@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+KS here!
+
+- 🌱 I’m currently learning Front End Development
 <!--
 **KavitaShrma/KavitaShrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
